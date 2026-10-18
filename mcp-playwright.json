@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@playwright/mcp@latest",
+        "--user-data-dir=C:\\Users\\<你的用户名>\\.pw_mcp_profile",
+        "--viewport-size=1400,900"
+      ]
+    }
+  }
+}
